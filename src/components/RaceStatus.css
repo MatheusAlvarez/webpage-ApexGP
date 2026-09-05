@@ -1,0 +1,22 @@
+
+.race-status { background-color: var(--surface-container-lowest); padding: var(--space-xs) var(--margin-desktop); width: 100%; margin-top: 5rem; }
+@media (max-width: 1024px) { .race-status { padding: var(--space-xs) var(--margin-mobile); } }
+.race-status__container { max-width: 1440px; margin: 0 auto; display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: var(--space-sm); color: var(--silver-telemetry); }
+.race-status__left, .race-status__right { display: flex; align-items: center; gap: var(--space-md); }
+.race-status__lights { display: flex; align-items: center; gap: 6px; }
+.race-status__light { width: 12px; height: 12px; border-radius: 50%; transition: all 0.3s; }
+.race-status__light--red { background-color: var(--race-red); box-shadow: 0 0 10px rgba(225,6,0,1); }
+.race-status__light--off { background-color: var(--surface-container-highest); }
+.race-status__info { display: none; align-items: center; gap: var(--space-xs); font-family: var(--font-mono); font-size: 11px; text-transform: uppercase; font-weight: 600; }
+@media (min-width: 640px) { .race-status__info { display: flex; } }
+.race-status__text--green { color: var(--sector-green); }
+.race-status__text--yellow { color: var(--speed-yellow); }
+.race-status__dot { color: var(--surface-bright); }
+.race-status__timer-box { display: flex; align-items: center; gap: var(--space-xs); background: var(--carbon-surface); padding: 4px var(--space-sm); border-radius: 4px; }
+.race-status__timer-label { font-family: var(--font-mono); font-size: 11px; text-transform: uppercase; color: var(--silver-telemetry); font-weight: 600; }
+.race-status__timer-value { font-family: var(--font-mono); font-size: 13px; color: var(--pure-white); font-weight: 700; letter-spacing: 0.05em; }
+.race-status__slots { display: none; align-items: center; gap: 4px; }
+@media (min-width: 768px) { .race-status__slots { display: flex; } }
+.race-status__slot-dot { width: 8px; height: 8px; border-radius: 50%; background-color: var(--sector-green); animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite; }
+@keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: .5; } }
+.race-status__slot-text { font-family: var(--font-mono); font-size: 11px; color: var(--pure-white); text-transform: uppercase; font-weight: 600; }
