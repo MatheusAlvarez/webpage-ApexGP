@@ -50,7 +50,7 @@ Este projeto foi desenvolvido com um propósito especial: **fins didáticos**. E
 
 O layout do projeto foi pensado para trazer a adrenalina das pistas de kart diretamente para a tela do usuário. Cores vibrantes, alto contraste e tipografia moderna são os pilares deste design.
 
-### Desktop
+### Desktop & Mobile
 
 <p align="center">
   <img alt="Demonstração do layout" src="https://github.com/MatheusAlvarez/webpage-ApexGP/blob/main/Thumbnail.png" width="100%">
@@ -138,6 +138,6 @@ Sendo um projeto didático, contribuições são super bem-vindas para melhorar 
 
 Este projeto está sob a licença [MIT](./LICENSE).
 
-Feito por Matheus Maia Alvarez 👋🏽 [Entre em contato!](https://br.linkedin.com/in/matheus-maia-alvarez-)
+Feito com 🩵 por Matheus Maia Alvarez 👋🏽 [Entre em contato!](https://br.linkedin.com/in/matheus-maia-alvarez-)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E10600&height=120&section=footer"/>
