@@ -138,6 +138,6 @@ Sendo um projeto didático, contribuições são super bem-vindas para melhorar 
 
 Este projeto está sob a licença [MIT](./LICENSE).
 
-Feito com 🩵 por Matheus Maia Alvarez 👋🏽 [Entre em contato!](https://br.linkedin.com/in/matheus-maia-alvarez-)
+Feito por Matheus Maia Alvarez 👋🏽 [Entre em contato!](https://br.linkedin.com/in/matheus-maia-alvarez-)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E10600&height=120&section=footer"/>
