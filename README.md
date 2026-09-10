@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/MatheusAlvarez/webpage-ApexGP?color=E10600&style=flat-square">
+  <img alt="GitHub language count"  src="https://img.shields.io/github/languages/count/MatheusAlvarez/webpage-ApexGP?color=E10600&style=flat-square">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/MatheusAlvarez/webpage-ApexGP?color=E10600&style=flat-square">
   <a href="https://github.com/MatheusAlvarez/webpage-ApexGP/commits/main">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/MatheusAlvarez/webpage-ApexGP?color=E10600&style=flat-square">
